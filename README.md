@@ -1,7 +1,7 @@
 # Reinforcement-Learning
 ## Implemented RL algorithms:
-[1] [Q-learning](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Q-learning.py)
-[2] [Double Q-learning](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Double-Q-learning.py)sorces
+1. [Q-learning](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Q-learning.py)
+2. [Double Q-learning](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Double-Q-learning.py)sorces
 
 ## Study Resources
 Online Courses:
