@@ -15,3 +15,5 @@ Other Helpful materials/articles:
 - [Key papers in Deep RL by Open AI](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 
+## Author
+Yeskendir Koishekenov [@YeskendirK](https://github.com/YeskendirK)
