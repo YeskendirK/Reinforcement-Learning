@@ -3,6 +3,7 @@
 1. [Q-learning](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Q-learning.py) (Cart-Pole env.)
 2. [Double Q-learning](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Double-Q-learning.py)  (Cart-Pole env.)
 3. [Sarsa](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Sarsa.py)  (Frozen-Lake env.)
+4. [Sarsa(λ)](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Sarsa_lambda.py) (Frozen-Lake env.)
 
 ## Study Resources
 Online Courses:
