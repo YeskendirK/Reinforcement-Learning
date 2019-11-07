@@ -15,8 +15,6 @@ Textbooks:
 
 Other Helpful materials/articles:
 - [Key papers in Deep RL by Open AI](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
-
-## Useful articles and blogposts:
 - [An Intuitive Explanation of Policy Gradient](https://towardsdatascience.com/an-intuitive-explanation-of-policy-gradient-part-1-reinforce-aa4392cbfd3c)
 
 
