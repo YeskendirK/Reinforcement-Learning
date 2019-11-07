@@ -1,9 +1,10 @@
 # Reinforcement-Learning
-## Implemented RL algorithms:
+## Implemented RL algorithms (by me):
 1. [Q-learning](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Q-learning.py) (Cart-Pole env.)
 2. [Double Q-learning](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Double-Q-learning.py)  (Cart-Pole env.)
 3. [Sarsa](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Sarsa.py)  (Frozen-Lake env.)
 4. [Sarsa(λ)](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Sarsa_lambda.py) (Frozen-Lake env.)
+5. [Deep Q-Network (DQN)](/home/yeskendir/Personal-CS-Projects/Reinforcement-Learning-DRAFT/RL-Algorithms/DQN.py) (Cart-Pole env.)
 
 ## Study Resources
 Online Courses:
@@ -14,6 +15,7 @@ Textbooks:
 
 Other Helpful materials/articles:
 - [Key papers in Deep RL by Open AI](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+- [An Intuitive Explanation of Policy Gradient](https://towardsdatascience.com/an-intuitive-explanation-of-policy-gradient-part-1-reinforce-aa4392cbfd3c)
 
 
 ## Author
