@@ -5,6 +5,7 @@
 3. [Sarsa](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Sarsa.py)  (Frozen-Lake env.)
 4. [Sarsa(λ)](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/Sarsa_lambda.py) (Frozen-Lake env.)
 5. [Deep Q-Network (DQN)](/home/yeskendir/Personal-CS-Projects/Reinforcement-Learning-DRAFT/RL-Algorithms/DQN.py) (Cart-Pole env.)
+6. [REINFORCE](https://github.com/YeskendirK/Reinforcement-Learning/blob/master/RL-Algorithms/REINFORCE.py) (Cart-Pole env.)
 
 ## Study Resources
 Online Courses:
